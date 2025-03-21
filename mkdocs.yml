@@ -1,1 +1,19 @@
+site_name: Project Voyager AIO
+site_description: Voyager is a versatile Discord solution.
+site_author: Joy
 
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - General: general.md
+  - Birthday: birthday.md
+  - Giveaway: giveaway.md
+  - Starboard: starboard.md
+  - Welcome & Farewell: welcome-farewell.md
+  - Reaction Roles: reaction-roles.md
+  - Moderation: moderation.md
+  - Logging: logging.md
+
+docs_dir: docs
